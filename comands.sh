@@ -11,3 +11,7 @@ elm reactor
 #for example:
 elm install elm/http  
 elm install elm/json.
+
+# building a single file and/or the project?
+# results in single html file
+elm make ./src/Main.elm
