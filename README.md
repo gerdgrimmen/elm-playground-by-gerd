@@ -2,7 +2,8 @@
 
 ## Description
 
-as the title says
+Small learning exercise based on the examples from the official elm website:
+https://elm-lang.org/examples
 
 ### Dependencies
 
