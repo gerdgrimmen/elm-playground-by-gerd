@@ -7,3 +7,7 @@ elm init
 # start a dashboard to choose the example files you want to run 
 elm reactor
 
+# instead of editing elm.json manually, the preferred way to edit is via the commands of the elm binary
+#for example:
+elm install elm/http  
+elm install elm/json.
